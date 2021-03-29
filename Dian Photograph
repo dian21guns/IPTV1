@@ -1,0 +1,148 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) beIN Sport 1
+https://cdn12jtedge.useetv.com/joss/15/bein1/chunklist_w961964172_b1344100_sleng_kamiselaluada.m3u8?enc=SHBGHijbJgtrjzHwqrjKZg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012007
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports2.png" group-title="Sports", (ONLINE) beIN Sport 2
+https://cdn12jtedge.useetv.com/joss/15/bein2/chunklist_w790122940_b1344100_sleng_kamiselaluada.m3u8?enc=xzTzV9ZWN_77HU8Nq3dUtw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012008
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="Sports", (ONLINE) NBA
+https://cdn12jtedge.useetv.com/joss/15/nba/chunklist_w243538509_b1344100_sleng_kamiselaluada.m3u8?enc=xNb-J21A95apJGyhr4KXdQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012006
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions1.png" group-title="Sports", (ONLINE) Champion TV 1
+https://cdn12jtedge.useetv.com/joss/15/champion1/chunklist_w521174096_b1344100_sleng_kamiselaluada.m3u8?enc=YKmMTtwjS-S5YSKv2vGkWg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012008
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions2.png" group-title="Sports", (ONLINE) Champion TV 2
+https://cdn12jtedge.useetv.com/joss/15/champion2/chunklist_w1146612292_b1344100_sleng_kamiselaluada.m3u8?enc=4NHo1atGb6deDw4fZyjX5A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012009
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", (ONLINE) Fox Sport 1
+https://cdn12jtedge.useetv.com/joss/15/foxsport1/chunklist_w756937221_b1344100_sleng_kamiselaluada.m3u8?enc=yzUmaKAANxcHWARbrjHssg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012009
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports2.png" group-title="Sports", (ONLINE) Fox Sport 2
+https://cdn12jtedge.useetv.com/joss/15/foxsport2/chunklist_w198693503_b1344100_sleng_kamiselaluada.m3u8?enc=F-21STB8gm4WvzYAPSVGiQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012009
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" group-title="Sports", (ONLINE) Fox Sport 3
+https://cdn12jtedge.useetv.com/joss/15/foxsport3/chunklist_w1093140987_b1344100_sleng_kamiselaluada.m3u8?enc=SoP88qHhcuQe-eLa2r1ZKg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012009
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/golf.png" group-title="Sports", (ONLINE) Golf
+https://cdn12jtedge.useetv.com/joss/15/golfplus/chunklist_w35321698_b1344100_sleng_kamiselaluada.m3u8?enc=58GNIE_BMfewXwecYisFAw&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012010
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useesports1.png" group-title="Sports", (ONLINE) Useesports 1
+https://cdn12jtedge.useetv.com/joss/15/useesport/chunklist_w12456589_b1344100_sleng_kamiselaluada.m3u8?enc=4urKc6KMz8omPH-TbaK2aA&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012010
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/useesports2.png" group-title="Sports", (ONLINE) Useesports 2
+https://cdn12jtedge.useetv.com/joss/15/useesports2/chunklist_w316614452_b1344100_sleng_kamiselaluada.m3u8?enc=knz1Q1YnNzZg2j5v7m4EOg&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012010
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/egg.png" group-title="Sports", (ONLINE) eGG TV
+https://cdn12jtedge.useetv.com/joss/130/egg/chunklist_w1158842435_b994100_sleng_kamiselaluada.m3u8?enc=6MFPWQz43CyO5svLjyvoVQ&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1617012015
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tvrisports.png" group-title="Lokal", (ONLINE) TVRI SPORTS
+http://210.210.155.35:80/session/8161a31e-2edb-11eb-901e-b82a72d63267/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mola.png" group-title="Lokal", (ONLINE) Mola Sports Free
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/fightsport.png" group-title="Premium Channel", (ONLINE) Fight Sports
+http://210.210.155.35/session/5e4c2166-2efd-11eb-9da2-b82a72d63267/uq2663/h/h05/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports1.png" group-title="Sports", (ONLINE) Fox Sport 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports2.png" group-title="Sports", (ONLINE) Fox Sport 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/foxsports3.png" group-title="Sports", (ONLINE) Fox Sport 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="Sports", (ONLINE) BT SPORTS 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="Sports", (ONLINE) BT SPORTS 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsportsxtra.png" group-title="Sports", (OFFLINE) beIN Sport Extra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true1.png" group-title="Sports", (ONLINE) True Premier 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true2.png" group-title="Sports", (ONLINE) True Premier 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true3.png" group-title="Sports", (ONLINE) True Premier 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true4.png" group-title="Sports", (ONLINE) True Premier 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/true5.png" group-title="Sports", (ONLINE) True Premier 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports.png" group-title="Sports", (ONLINE) TrueSport 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports2.png" group-title="Sports", (ONLINE) TrueSport 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports3.png" group-title="Sports", (ONLINE) TrueSport 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports4.png" group-title="Sports", (ONLINE) TrueSport 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports4.png" group-title="Sports", (ONLINE) TrueSport 4 (2)
+http://36.37.252.114:888/Apple/OneTV-034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/truesports5.png" group-title="Sports", (OFFLINE) TrueSport 5
+https://www.livedoomovies.com/02_2sporthd5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv1.png" group-title="Sports", (ONLINE) SPORT TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv2.png" group-title="Sports", (ONLINE) SPORT TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv3.png" group-title="Sports", (ONLINE) SPORT TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv4.png" group-title="Sports", (ONLINE) SPORT TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/sporttv5.png" group-title="Sports", (ONLINE) SPORT TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports1.png" group-title="Sports", (ONLINE) DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports2.png" group-title="Sports", (ONLINE) DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/dubaisports3.png" group-title="Sports", (ONLINE) DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports1.png" group-title="Sports", (ONLINE) ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports2.png" group-title="Sports", (ONLINE) ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports3.png" group-title="Sports", (ONLINE) ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/adsports4.png" group-title="Sports", (OFFLINE) ABU DHABI SPORTS 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/racingcom.png" group-title="Sports", (ONLINE) RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="Sports", (ONLINE) NBA
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/tennis.png" group-title="Sports", (ONLINE) Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/redbulltv.png" group-title="Sports", (ONLINE) Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rtmsports.png" group-title="Malaysia", (ONLINE) RTM Sports
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
